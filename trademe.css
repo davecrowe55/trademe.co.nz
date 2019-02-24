@@ -1,0 +1,272 @@
+font-family: 'Montserrat', sans-serif;
+
+#ul { 
+ background-color: green ;
+    width:19px;
+     display: inline-block;
+    float: center;
+font-size: 4px;
+ 
+ }
+#yellow-search {
+      position: relative;
+    margin-top: -10px;
+    z-index: 1000;
+
+}
+
+ul.nav-tabs{
+  margin-bottom: 0;
+}
+ ul.nav-tabs, 
+ ul.nav-tabs li.active {
+border: none;
+ }
+ ul.nav-tabs li {
+  padding: 5px;
+  height: 50px;
+ } 
+  li {
+    display: inline-block;
+    float: center;
+    
+    font-size: 13px;
+    font-style: bold;
+    width: auto;
+  float: center;
+  padding: 0px;
+  border: none;
+}
+ul.nav-tabs li p {
+  margin: 0px;
+}
+#ul2 {
+   font-size: 20px;
+	
+}
+
+li:hover {
+    background-color: white;
+}
+
+#li1: {
+  color: pink;
+}
+
+#ad {
+   
+   
+}
+#card {
+  width: 95%;
+  margin-left:95px; 
+ }
+
+#searchbutton {
+  border-radius: 8px; 
+  background-color: #f19608;
+}
+#searchbutton:hover {
+  background-color: #a85400;
+   }
+
+  #topbar {
+    font-size: 18px;
+  }
+#topbar:hover {
+ color: black;
+   }
+
+  #insurance {
+    width: 100%;
+    height: 100%;
+    border-style: none;
+  }
+  #adpad {
+    padding-left:0px; 
+    padding-right:0px;
+    padding-bottom: 0px;
+    margin-right: 85px;
+  }
+#siteheader {
+}
+
+#logo {
+    
+}
+
+
+}
+
+ul.my-list-style {
+    list-style-type:none;
+    color: #0000FF;
+    padding: 10px 20px;
+    size: 50px;
+    display: inline-block;
+}
+
+.card-header {
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+
+#mylist {padding: 0px;}
+           
+#ul3 {
+   font-size: 20px;
+   color: white;
+   background-color: red;
+   width: 25%;
+   float: left;
+   height: 100%;
+   padding-left: 0px;
+}
+#u13:hover {
+
+}
+
+#ul4 {
+   font-size: 20px;
+   color: white;
+   background-color: orange;
+   width: 25%;
+    float: left;
+}
+
+#ul5 {
+   font-size: 20px;
+   color:white;
+   background-color: grey;
+   width: 25%;
+    float: left;
+}
+
+#ul6 {
+   font-size: 20px;
+   color: white;
+   background-color: green;
+   width: 25%;
+    float: left;
+}
+#ol1 {
+  float: right;
+  width: 47em;
+  border: 1px solid #444;
+  font-family: "Helvetica Neue",Arial,sans-serif;
+    font-size: 14px;
+    color: #333;
+}
+
+#ol1:hover {
+    background-color: none;
+    color: none;
+}
+/* allow room for 3 columns */
+  ol
+  {
+    width: 47em;
+  }  /* float & allow room for the widest item */
+  ol li
+  {
+    float: left;
+    width: 12em;
+    text-align: left;
+    font-size: 16px;
+    margin: 5px;
+  }  /* stop the float */
+  br
+  {
+    clear: left;
+  }  /* separate the list from subsequent markup */
+  div.wrapper
+  {
+    margin-bottom: 1em;
+  }
+ #viewall {float: right
+ }
+ 
+ #carddeck {
+  width: 100%;
+  height: 450px;
+  margin:0px;
+ }
+
+ #lifedirectlogo {
+  float: right;
+ }
+
+ #house {
+  width: 100%;
+  float: top;
+  height: 350px;
+ }
+
+ #footer {
+  background-color: black;
+  width: 100%;
+  height: 200px;
+  display: flex;
+   flex-direction: row;
+   border: 1px solid #444;
+    width: 100%;
+  height: 100%;
+ }
+
+ #footerli li:hover {
+    color: grey;
+    text-decoration: underline;
+    background-color: initial;
+    font-style: bold;
+}
+
+ #cardbody {
+  height: 50%;
+  padding: 0px
+ }
+
+ #img {width: 200px;
+        padding: 0px;
+        height: 170px;
+        }
+
+#cardheader {
+  
+}
+
+.flexcontainer {
+   display: flex;
+   flex-direction: row;
+}
+
+#cardshadow {}
+
+#myButton {
+  width: 90%;
+  height:50px;
+  color: white;
+  background-color: pink;
+}
+
+#myButton:hover {
+  background-color: maroon;
+}
+
+
+
+.footer-sidebar {
+    float: right;
+    text-align: center;
+    width: 298px;
+    position: relative;
+    float: right;
+  border: 1px solid #444;
+  font-family: "Helvetica Neue",Arial,sans-serif;
+    font-size: 14px;
+    color: #333;
+
+}
